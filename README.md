@@ -15,7 +15,7 @@ Power BI adalah salah satu perangkat lunak Business Intelligence (BI) yang popul
 
 
 ## Instalasi dan Setup Power BI
-Power BI adalah aplikasi yang digunakan untuk memvisualisasikan data dan memberikan wawasan bisnis. Power BI menyediakan alat untuk menghubungkan data, mengolah data, dan membuat laporan interaktif serta dashboard. Dengan menggunakan Power BI, pengguna dapat membuat laporan dengan berbagai visualisasi seperti grafik, tabel, dan peta.
+
 
 #### Langkah-langkah Instalasi:
 Langkah-langkah Instalasi Power BI Desktop:
