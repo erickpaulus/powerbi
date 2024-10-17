@@ -119,6 +119,7 @@ Setelah visualisasi selesai dibuat:
 
 ## Referensi
 - Dokumentasi Resmi Power BI: https://docs.microsoft.com/en-us/power-bi/
+- https://learn.microsoft.com/en-us/power-bi/consumer/end-user-basic-concepts
 - Power BI YouTube Channel: Banyak tutorial tersedia di YouTube tentang cara menggunakan fitur-fitur Power BI.
 - Komunitas Power BI: Diskusikan dengan pengguna lain di komunitas Power BI di forum resmi.
 
